@@ -1,0 +1,16 @@
+:host{
+  display: block;
+  margin-top: 1rem;
+}
+
+.postList{
+  margin-top: 2rem;
+}
+
+.info-text{
+  text-align: center;
+}
+
+mat-spinner{
+  margin: 0 auto;
+}
